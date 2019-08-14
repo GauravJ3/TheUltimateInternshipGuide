@@ -2,7 +2,7 @@
 
 =============================================
 
-<i>Originally published at [EulerCoder Blog](http://eulercoder.me)</i>
+<i>Originally published at [EulerCoder Blog](http://eulercoder.me)</i>(Currently inactive/under maintenance)
 
 =============================================
 
@@ -27,7 +27,7 @@ Most of the US based companies start their summer internship interview process v
 I interviewed with 5-6 companies and from my experience here is the list of topics you should know (if you haven't decided your field). 
 
 | Data Structure | Algorithms | Networking| Operating System| Database| 
-|----------------|------------|-----------|----------------|---------|
+|----------------|------------|-----------|-----------------|---------|
 |Linked List     |Complexity Analysis|Network Layer| Process and Threads | SQL Query|
 |Doubly Linked List|Searching (Linear and Binary)| HTTP Protocol| Memory Organization| Indexing|
 |Queue|Sorting Algorithms| TCP & UDP Protocol| Booting Process | Normalization|
@@ -160,8 +160,13 @@ I have collected some interview experiences of top companies from different reso
 - <a href="http://hired.com/" target="_blank">Hired</a>
 - <a href="http://internshala.com/" target="_blank">Internshala</a>
 
-#### Algorithms and Data Structure
+#### For Startup Jobs 
 
+- <a href="http://angel.co/" target="_blank">AngelList</a>
+- <a href="https://www.cutshort.io/" target="_blank">Cutshort</a>
+- <a href="http://hackerearth.com/" target="_blank">HackerEarth</a>
+
+#### Algorithms and Data Structure
 
 
 - <a href="https://www.geeksforgeeks.org" target="_blank">Geeksforgeeks </a> (Website). 
@@ -170,6 +175,9 @@ I have collected some interview experiences of top companies from different reso
 - <a href="https://topcoder.com" target="_blank">TopCoder</a> (For Practice)
 - Elements of Programming Interviews (Book) [Amazon](http://www.amazon.in/Elements-Programming-Interviews-Adnan-Aziz/dp/9382359443)
 - Coding Interview Questions by Narasimha Karumanchi [Amazon](http://www.amazon.in/Coding-Interview-Questions-Narasimha-Karumanchi/dp/8192107515)
+- <a href="https://interviewbit.com" target="_blank">InterviewBit</a> (For Practice)
+- <a href="https://hackerearth.com" target="_blank">HackerEarth</a> (For Practice)
+
 
 #### Networking
 
@@ -193,6 +201,8 @@ I have collected some interview experiences of top companies from different reso
 - <a href="http://www.indiabix.com/" target="_blank">IndiaBix</a>
 - <a href="http://www.careercup.com" target="_blank">CareerCup</a>
 - <a href="http://katemats.com/hiring-interviews/" target="_blank">KateMats</a>
+- <a href="https://interviewbit.com" target="_blank">InterviewBit</a> (For Practice)
+- <a href="https://hackerearth.com" target="_blank">HackerEarth</a> (For Practice)
 
 #### Other
 
